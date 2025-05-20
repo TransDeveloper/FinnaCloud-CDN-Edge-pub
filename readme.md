@@ -21,3 +21,6 @@ This was created in under an hour as a proof-of-concept. Feel free to explore, f
 ---
 
 Feel free to modify or extend it as you like.
+
+
+This project was made on 10/02/2025. Original Authors: savi@finna shawn@finna
